@@ -2,6 +2,8 @@
 ## Basic
 A middle school student who studies in Republic of Korea.
 
+I'm developing nothing right now.
+
 ## Preferences
 ### Programming Preferences
 * Kotlin's definately the best languages available in the programming community.
