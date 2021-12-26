@@ -1,7 +1,10 @@
-name: Metrics embed
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics Embed
 on:
-  schedule:
-    - cron: "0 */3 * * *"
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
   push:
     branches:
       - "main"
@@ -11,110 +14,63 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # Include forks in metrics
-          repositories_forks: on
-          
-          # GitHub Personal Token
+          # Your GitHub token
           token: ${{ secrets.PERSONAL_TOKEN }}
-          # GitHub username
+
+          # Options
           user: dytroInc
-          
-          # Timezone used
+          template: classic
+          repositories_forks: on
+          base: header, activity, community, repositories, metadata
           config_timezone: Asia/Seoul
-          # Use twemojis instead of emojis
           config_twemoji: on
-
-          # Display an isometric view of your commits calendar
-          plugin_isocalendar: on
-
-          # Display most used languages metrics
-          plugin_languages: on
-          # Maximum number of languages to display
-          plugin_languages_limit: 0
-          # Maximum event age (for recently used section)
-          plugin_languages_recent_days: 0
-          
-          # Display starred topics
-          plugin_topics: on
-          # Maximum number of topics to display
-          plugin_topics_limit: 0
-          
-          # Display recently starred repositories
-          plugin_stars: on
-          # Maximum number of stars to display
-          plugin_stars_limit: 5
-          
-          # Display licenses informations
-          plugin_licenses: on
-          # Display used licenses ratio
-          plugin_licenses_ratio: on
-          
-          # Display coding habits metrics
-          plugin_habits: on
-          # Number of events to use
-          plugin_habits_from: 300
-          # Maximum event age
-          plugin_habits_days: 31
-          # Display coding habits charts based on recent activity
-          plugin_habits_charts: on
-          
-          # Display repository contributors
-          plugin_contributors: on
-          # Display contributions
-          plugin_contributors_contributions: on
-          # Sections to display
-          plugin_contributors_sections: contributors
-          
-          # Display follow-up of repositories issues and pull requests
-          plugin_followup: on
-          
-          # Display stargazers metrics
-          plugin_stargazers: on
-          
-          # Display active projects
-          plugin_projects: on
-          # Maximum number of projects to display
-          plugin_projects_limit: 5
-          # Display projects descriptions
-          plugin_projects_descriptions: on
-          
-          # Display recent activity
-          plugin_activity: on
-          # Maximum number of events to display
+          plugin_achievements: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_secrets: yes
+          plugin_achievements_threshold: C
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
           plugin_activity_limit: 10
-          # Maximum event age
-          plugin_activity_days: 0
-          # Display events timestamps
-          plugin_activity_timestamps: on
-          
-          # Display achievements
-          plugin_achievements: on
-          
-          # Display notable contributions in organizations
-          plugin_notable: on
-          # Also display repository name
-          plugin_notable_repositories: on
-          
-          # GitHub discussions metrics
-          plugin_discussions: on
-          
-          # GitHub Community Support metrics
-          plugin_support: on
-          
-          # Display lines of code metrics
-          plugin_lines: on
-
-          # Display repositories traffic metrics
-          plugin_traffic: on
-          
-          # Display account or repository introduction
-          plugin_introduction: on
-          # Display introduction section title
-          plugin_introduction_title: on
-          
-          # Display GitHub Skyline 3D calendar
-          plugin_skyline: on
-          # Number of frames
-          plugin_skyline_frames: 100
-          # Image quality
-          plugin_skyline_quality: 1.0
+          plugin_activity_load: 200
+          plugin_activity_timestamps: yes
+          plugin_activity_visibility: public
+          plugin_discussions: yes
+          plugin_habits: yes
+          plugin_habits_charts: yes
+          plugin_habits_days: 31
+          plugin_habits_facts: yes
+          plugin_habits_from: 250
+          plugin_introduction: yes
+          plugin_introduction_title: yes
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 0
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 31
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_lines: yes
+          plugin_notable: yes
+          plugin_notable_from: all
+          plugin_notable_repositories: yes
+          plugin_projects: yes
+          plugin_projects_descriptions: yes
+          plugin_projects_limit: 4
+          plugin_reactions: yes
+          plugin_reactions_display: absolute
+          plugin_reactions_ignored: github-actions[bot], dependabot[bot], dependabot-preview[bot]
+          plugin_reactions_limit: 250
+          plugin_reactions_limit_issues: 100
+          plugin_repositories_limit: 100
+          plugin_repositories: yes
+          plugin_repositories_affiliations: owner
+          plugin_repositories_batch: 100
+          plugin_stargazers: yes
+          plugin_stars: yes
+          plugin_stars_limit: 10
