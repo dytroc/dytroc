@@ -18,17 +18,5 @@ I'm developing nothing right now.
 * When I'm bored, I love to play Minesweeper and Satisfactory.
 
 ## Stats
-<div style="border:1px solid black;background: white;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dytroInc" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dytroInc" />
-</div>
-
-### Dark Mode
-<p>Who hates dark mode?</p>
-<div style="border:1px solid black;background: white;" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dytroInc&theme=dark"" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dytroInc&theme=dark" />
-</div>
+![Metrics](https://github.com/dytroInc/dytroInc/blob/main/github-metrics.svg)
 
