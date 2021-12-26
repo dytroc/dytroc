@@ -15,7 +15,7 @@ jobs:
           repositories_forks: on
           
           # GitHub Personal Token
-          token: ${{ secrets.GITHUB_PERSONAL_TOKEN }}
+          token: ${{ secrets.PERSONAL_TOKEN }}
           # GitHub username
           user: dytroInc
           
