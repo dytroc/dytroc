@@ -1,8 +1,7 @@
 # Dytro
-## Basic
-A middle school student who studies in Republic of Korea.
 
-I'm developing nothing right now.
+## Stats
+![Metrics](https://github.com/dytroInc/dytroInc/blob/main/github-metrics.svg)
 
 ## Preferences
 ### Programming Preferences
@@ -16,7 +15,3 @@ I'm developing nothing right now.
 * Among all games, Minecraft's my favorite.
 * I love to play Genshin Impact.
 * When I'm bored, I love to play Minesweeper and Satisfactory.
-
-## Stats
-![Metrics](https://github.com/dytroInc/dytroInc/blob/main/github-metrics.svg)
-
