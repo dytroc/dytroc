@@ -550,23 +550,23 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 52.67182255946301%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">66%</span>
+                            <div class="bar" style="width: 51.6690136878274%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">65%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Kotlin</span>
-                            <div class="bar" style="width: 17.899703292961718%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">22%</span>
+                            <div class="bar" style="width: 20.72889089168028%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">26%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 5.8096210905199674%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">7%</span>
+                            <div class="bar" style="width: 6.727876978538838%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">8%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 3.618853057055304%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">5%</span>
+                            <div class="bar" style="width: 0.8742184419534726%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1%</span>
                         </div>
                     </div>
                 </section>
@@ -1855,7 +1855,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>monun/kommand</span>
-                                        <span>starred 25 days ago</span>
+                                        <span>starred 26 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3106,7 +3106,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Jan 2022, 17:21:04 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 12 Jan 2022, 18:17:05 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
