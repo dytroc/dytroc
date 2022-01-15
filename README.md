@@ -15,3 +15,7 @@
 * Among all games, Minecraft's my favorite.
 * I love to play Genshin Impact.
 * When I'm bored, I love to play Minesweeper and Satisfactory.
+### Music Preferences
+* I prefer to listen to Japanese songs.
+* I love to listen to VOCALOIDs
+* I love to listen to electro swing music and rock music. Sometimes, I like to listen to jazz.
