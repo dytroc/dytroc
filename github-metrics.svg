@@ -576,27 +576,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 53.417692916054676%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">67%</span>
+                                <div class="bar" style="width: 55.31116555827792%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                                <span class="value">69%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 21.623168756825972%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                                <span class="value">27%</span>
+                                <div class="bar" style="width: 20.079803990199512%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                                <span class="value">25%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Kotlin</span>
-                                <div class="bar" style="width: 2.841110232365458%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
-                            </div>
-                            <div class="entry">
-                                <span class="name">CSS</span>
-                                <div class="bar" style="width: 2.069822618913117%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 2.64053202660133%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">3%</span>
                             </div>
                             <div class="entry">
+                                <span class="name">CSS</span>
+                                <div class="bar" style="width: 1.9236961848092404%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">2%</span>
+                            </div>
+                            <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.048205475840771284%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.0448022401120056%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -3006,7 +3006,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Apr 2022, 00:18:49 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 23 Apr 2022, 01:27:42 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
