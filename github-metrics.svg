@@ -576,27 +576,27 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">TypeScript</span>
-                                <div class="bar" style="width: 55.63441768764963%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                                <span class="value">70%</span>
+                                <div class="bar" style="width: 62.643304527075244%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">78%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">JavaScript</span>
-                                <div class="bar" style="width: 19.72961554710604%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">25%</span>
+                                <div class="bar" style="width: 12.136684373265679%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">15%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Kotlin</span>
-                                <div class="bar" style="width: 2.6559639487396143%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">3%</span>
+                                <div class="bar" style="width: 2.990565289780385%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">4%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">CSS</span>
-                                <div class="bar" style="width: 1.9349387410223913%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">2%</span>
+                                <div class="bar" style="width: 2.178704511218584%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">3%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">Shell</span>
-                                <div class="bar" style="width: 0.04506407548232643%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 0.05074129866011259%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">0%</span>
                             </div>
                         </div>
@@ -1751,7 +1751,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>mine-js/mine.js</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Mar 24 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">MineJS is a scripting plugin for the Bukkit!</div>
@@ -1804,7 +1804,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>LemonCaramel/Fix-MC248936</span>
-                                        <span>starred 29 days ago</span>
+                                        <span>starred Mar 24 2022</span>
                                     </div>
                                 </div>
                                 <div class="field description">Fix MC-248936 for Minecraft 1.16.4 ~ 1.18.2 (and dock icon change feature)</div>
@@ -3017,7 +3017,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 23 Apr 2022, 18:16:49 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 23 Apr 2022, 19:19:28 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
