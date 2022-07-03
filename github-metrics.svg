@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3686" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="3605" class="">
     <defs>
         <style/>
     </defs>
@@ -2458,27 +2458,6 @@
                                 <div class="timestamp">27 Jun 2022, 13:43:06</div>
                             </section>
                         </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">dytroInc/sample-plugin</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#517d4b8</div>
-                                        <div class="message"><img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> 1.19</div>
-                                    </div>
-                                </div>
-                                <div class="timestamp">19 Jun 2022, 20:07:08</div>
-                            </section>
-                        </div>
                     </section>
                 </div>
             </section>
@@ -3151,7 +3130,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Jul 2022, 19:19:09 (timezone Asia/Seoul) with lowlighter/metrics@3.25.0</span>
+                <span>Last updated 3 Jul 2022, 20:15:03 (timezone Asia/Seoul) with lowlighter/metrics@3.25.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
