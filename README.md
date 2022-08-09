@@ -1,8 +1,5 @@
 # Dytro
 
-## Stats
-![Metrics](https://github.com/dytroInc/dytroInc/blob/main/github-metrics.svg)
-
 ## Preferences
 ### Programming Preferences
 * Kotlin's definately the best languages available in the programming community.
@@ -15,7 +12,9 @@
 * Among all games, Minecraft's my favorite.
 * I love to play Genshin Impact.
 * When I'm bored, I love to play Minesweeper and Satisfactory.
-### Music Preferences
-* I prefer to listen to Japanese songs.
-* I love to listen to VOCALOIDs
-* I love to listen to electro swing music and rock music. Sometimes, I like to listen to jazz.
+### I'm Currently Studying
+* Rust
+* Go
+
+## Stats
+![Metrics](https://github.com/dytroInc/dytroInc/blob/main/github-metrics.svg)
