@@ -2842,7 +2842,7 @@ Save banners to banners.json</div>
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 2.49m out of 95m users</span>
+                                    <span class="gh">ranked 2.50m out of 95m users</span>
                                 </div>
                                 <div class="text">Published 17 public repositories</div>
                             </div>
@@ -3211,7 +3211,7 @@ Save banners to banners.json</div>
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 9 Aug 2022, 22:47:36 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
+                <span>Last updated 9 Aug 2022, 23:20:10 (timezone Asia/Seoul) with lowlighter/metrics@3.26.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
