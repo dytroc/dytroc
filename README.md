@@ -1,22 +1,10 @@
-```kotlin
-object Dytro : Human(
-    nationality=Nationality.REPUBLIC_OF_KOREA,
-    fluentLanguages=setOf(Language.KOREAN, Language.ENGLISH)
-), Gamer, Programmer {
-    override val favoriteVideoGames = setOf(MobileGames.BLUE_ARCHIVE, PCGames.MINECRAFT, CrossPlatformGames.HONKAI_STARRAIL)
-    override val githubUsername = "dytroc"
-    
-    override val fluentProgrammingLanguages = setOf(
-        ProgrammingLanguage.KOTLIN,
-        ProgrammingLanguage.JAVASCRIPT,
-        ProgrammingLanguage.TYPESCRIPT,
-        ProgrammingLanguage.JAVA,
-    )
-    
-    override val naiveProgrammingLanguages = setOf(
-        ProgrammingLanguage.PYTHON,
-        ProgrammingLanguage.RUST,
-        ProgrammingLanguage.GO,
-    )
-}
-```
+# Dytro
+I am Dytro, a high school sophomore in Korea.
+
+My current affiliation includes [Komtents](https://github.com/Komtents) and [MC-Dashify](https://github.com/MC-Dashify). 
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ae,discord,github,gradle,idea,java,js,kotlin,nextjs,nodejs,ps,pr,react,rust" alt="My Skills" />
+  </a>
+</p>
