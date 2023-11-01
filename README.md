@@ -3,7 +3,7 @@ I am Dytro, a high school sophomore in Korea.
 
 My current affiliation includes [Komtents](https://github.com/Komtents) and [MC-Dashify](https://github.com/MC-Dashify). 
 
-I hope for a better open source community where everybody can commit freely regardless of their age, race, sex, gender, sexual orientation, nationality, religion, and social status. 
+I advocate a better open source community where everybody can commit freely regardless of their age, race, sex, gender, sexual orientation, nationality, ethnicity, religion, and social status. 
 
 <p align="center">
   <a href="https://skillicons.dev">
