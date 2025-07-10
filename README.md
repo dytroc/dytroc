@@ -1,5 +1,4 @@
 # Dytro
-I am Dytro, a high school junior in Korea.
 
 My current affiliation includes the [Paradise Dev Team](https://github.com/ParadiseDevTeam) and [MC-Dashify](https://github.com/MC-Dashify). 
 
